@@ -1,1 +1,2 @@
-a I am learning git.
+I am learning git.
+Hello, just a collaborator doin some work :D
